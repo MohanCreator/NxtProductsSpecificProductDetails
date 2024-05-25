@@ -1,0 +1,33 @@
+.rup-rating-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading-similar {
+  font-size: 18px;
+}
+
+.each-similar-container {
+  width: 220px;
+  margin-right: 20px;
+}
+
+.similar-image {
+  height: 200px;
+  width: 200px;
+}
+
+.review-container-star {
+  background-color: blue;
+  color: white;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 70px;
+  height: 36px;
+  font-family: 'Roboto';
+}

@@ -1,0 +1,145 @@
+.failure-button {
+  background-color: #3b82f6;
+  color: white;
+  font-family: 'Roboto';
+  padding: 10px;
+  border-color: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.not-found-heading {
+  color: #475569;
+  font-family: 'Roboto';
+}
+
+.image-failure {
+  height: 200px;
+}
+
+.failure-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.but-id {
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.a-b-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.similar-products-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.product-similar-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.similar-heading {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-weight: 600;
+  margin-left: 30px;
+}
+
+.add-cart-button {
+  color: white;
+  background-color: #3b82f6;
+  border-radius: 8px;
+  border-style: solid;
+  padding: 10px;
+  border-color: transparent;
+  font-family: 'Roboto';
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 120px;
+}
+
+.i-d-but {
+  padding: 3px;
+  cursor: pointer;
+  height: 36px;
+  font-size: 28px;
+}
+
+.brand-border-down {
+  border-style: solid;
+  border-color: transparent;
+}
+
+.border-bottom {
+  padding-bottom: 20px;
+  border-bottom-color: #475569;
+  border-width: 2px;
+}
+
+.des {
+  font-family: roboto;
+  color: #616e7c;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.pd-image {
+  border-radius: 10px;
+  height: 500px;
+}
+
+.pd-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+  padding: 30px;
+  justify-content: space-between;
+}
+
+.d-container {
+  width: 700px;
+  margin-left: 30px;
+}
+
+.review-container-star {
+  background-color: blue;
+  color: white;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 70px;
+  height: 36px;
+  font-family: 'Roboto';
+}
+
+.review-container {
+  display: flex;
+  flex-direction: row;
+  width: 190px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image-star {
+  height: 26px;
+}
